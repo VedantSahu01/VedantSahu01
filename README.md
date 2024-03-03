@@ -1,28 +1,36 @@
-# Hello, I am Vedant Sahu 👋
-[![Header](https://github.com/VedantSahu01/VedantSahu01/blob/main/gthbhdr.png "Header")](https://github.com/VedantSahu01)
----
-- 🔭 I’m currently studying B. Tech.(CSE)
-- 👀 I’m interested in Programming(c++/python), Data Analysis(python libraries), Web Development(javascipt/flask) and App Development(flutter)
-- 🌱 I’m currently learning Internet of Things
-- 💞️ I’m looking to collaborate on Web/App Development
-- 📫 How to reach me mail - [vedant.sahu2001@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=vedant.sahu2001@gmail.com),
-                             [vedantsahu007@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=vedantsahu007@gmail.com),
-                     twitter - [Vedant Sahu](https://twitter.com/ve_sahu)    
----
-## Find me around the web 🌍
-- [Dev.to](https://dev.to/vedantsahu01)
-- [LinkedIn](https://www.linkedin.com/in/vedant-sahu-68bab1167/)
-- [Twitter](https://twitter.com/ve_sahu)
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantSahu01&theme=jolly)](https://github.com/VedantSahu01/github-readme-stats)
-[![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=VedantSahu01&show_icons=true&theme=jolly)](https://github.com/VedantSahu01/github-readme-stats)
----
+# Hi there! 👋 I'm Vedant Sahu
 
+I'm a Java backend software developer with 1.5 years of experience, graduated from NIT, Raipur. Passionate about creating efficient and scalable solutions.
 
+## 🚀 Skills
 
+- **Languages:** C++, Java, SQL, Flutter, React.
+- **Frameworks:** Spring Boot
+- **Database:** MySQL, Mongo, TimescaleDB, Cassendra
+- **Tools:** Git, IntelliJ IDEA, Postman
 
+## 🌱 Currently Learning
 
-<!---
-VedantSahu01/VedantSahu01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Vue, Nuxt
+- Microservices architecture
+
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vedantsahu01/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2)](https://twitter.com/ve_sahu)
+
+## 🌐 Portfolio
+
+Check out my portfolio for a detailed overview of my projects and contributions.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://your-portfolio-url.com)
+
+## 🌳 Linktree
+
+Explore more about me and my work using the Linktree below:
+
+[![Linktree](https://img.shields.io/badge/Linktree-Explore-brightgreen)](https://linktr.ee/vedantsahu)
+
+## 📊 GitHub Stats
+
+[![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VedantSahu01&show_icons=true&theme=radical)](https://github.com/VedantSahu01)
